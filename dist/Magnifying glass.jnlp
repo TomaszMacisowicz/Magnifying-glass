@@ -8,9 +8,8 @@
   </information>
   <resources>
     <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
-    <jar href="lib\kotlin-runtime.jar" size="878511" download="eager" />
   </resources>
-  <application-desc main-class="magnifying.glass.MagnifyingGlass"  name="Magnifying glass" >
+  <application-desc main-class="magnifying.glass.Magnifying"  name="Magnifying glass" >
   </application-desc>
   <update check="always"/>
 </jnlp>
